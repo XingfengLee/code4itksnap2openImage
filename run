@@ -1,0 +1,2 @@
+#!/bin/bash
+python open_stc.py "$1" 
